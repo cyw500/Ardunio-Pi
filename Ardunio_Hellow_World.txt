@@ -1,0 +1,6 @@
+// code is on
+https://create.arduino.cc/editor/wahahahawaha
+
+// this tutorial used today
+https://junyou.tw/arduino-lcd/
+http://www.arduinotutorialonline.com/2018/01/lcd-scrolling-text-only-single-row.html
