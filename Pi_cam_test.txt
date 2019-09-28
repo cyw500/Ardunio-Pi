@@ -1,0 +1,6 @@
+#Raspberry pi zero W set up and test
+sudo raspi-config
+#select Interface Options -> select Camera -> enable = yes
+
+#To preview
+raspistill -k
